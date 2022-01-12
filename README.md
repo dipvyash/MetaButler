@@ -12,8 +12,20 @@ The Support group can be reached out to at [MetaButler](https://t.me/MetaButler)
 
 
 
-## Setting up the bot (Read this before trying to use!):
+<details>
+<summary><b>🔗 Deploy to Heroku</b></summary>
+<br>
 
+> Heroku has two vars[ HEROKU_API_KEY & HEROKU_APP_NAME ] for Updater to work. 
+> By setting those two vars you can get logs of your heroku app, set var, edit var, delete vars , check dyno usage and update bot. 
+> Those two vars are not Mandatory! You can leave them blank too. 
+    
+<h4>Click the button below to deploy Yukki on Heroku!</h4>    
+<p><a href="https://vegetaxd.me/Yukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+    
+</details>
+
+## Setting up the bot (Read this before trying to use!):
 
 # How to setup
 
